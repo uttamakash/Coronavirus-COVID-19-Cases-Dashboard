@@ -69,8 +69,8 @@ Daily and cumulative trend lines
 Comparative charts and KPIs
 
 (You may add a screenshot or GIF of your dashboard here)
+<img width="1919" height="1076" alt="Screenshot 2025-11-05 163934" src="https://github.com/user-attachments/assets/2f3e7eac-9f01-4b45-bb71-e083b5f06453" />
 
-![Dashboard Preview](images/dashboard_preview.png)
 
 📈 Results & Insights
 
